@@ -1,0 +1,2 @@
+# Cyber-War-Command-Law-Ethics-Simulation-System-CW-LESS-v2.0-
+CW-LESS v2.0 is a console-based cyber defense simulation system developed using C++ Programming Fundamentals. The project simulates how a cyber defense system detects cyber threats, evaluates their severity, applies relevant cyber laws, and analyzes ethical impact  all through a menu-driven ASCII graphical interface.  educational purpose project.
